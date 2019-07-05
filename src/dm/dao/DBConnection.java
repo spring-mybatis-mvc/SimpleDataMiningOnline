@@ -7,7 +7,7 @@ public class DBConnection {
 	
 	private final static String driver = "com.mysql.cj.jdbc.Driver";
 	private final static String url = "jdbc:mysql://localhost:3306/datamining"
-			+ "?user=root&password=msg0618&useSSL=false&serverTimezone=GMT%2B8";
+			+ "?user=root&password=root&useSSL=false&serverTimezone=GMT%2B8";
 	private Connection conn = null;
 	
 	// 建立数据库连接
