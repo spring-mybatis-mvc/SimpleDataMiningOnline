@@ -1,5 +1,5 @@
 # SimpleDataMiningOnline
-作为java web 课程的结果作业，用JSP+Servlet+WekaAPI实现一个简单的在线数据挖掘
+作为我的java web 课程的结果作业，用JSP+Servlet+WekaAPI实现一个简单的在线数据挖掘
 ## 介绍
 登上web,可以选择上传数据或采用已提供的数据，查看数据集统计信息和样本值，然后选择合适的机器学习模型和测试方法进行训练与测试，系统后台训练完成后返回显示性能度量结果。
 ## 功能板块
